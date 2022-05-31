@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>
+	<repl.it">
+</title>
+<style type="type/css"></style>
+<link rel="#styles.css" href="#styles.css" />
+</head>
+
+<body>
+	<div>
+		<h1>Adrienne Cooper</h1>
+		<h2>"Software Developer."</h2>
+		<hr>
+		<p>"My <i>favorite</i> thing about programming is I get to solve problems."</p>
+		<img src="Adrienne Cooper" />
+		src="https://photos.google.com/search/_cAF1QipMr8NztPC8iTkSREQip6el0MTCBSSGb104_/photo/AF1QipOGxsUUZvx1nw3tlc7llTuLcbFbx6pY_1MZ4jmL"
+		<h3>"About Me."</h3>
+		<h3>"About Me."</h3>
+		<p>Lorem ipsum dolor sit amet, eos erat porro doming te. Diceret forensibus voluptatum ex nec, eum eu
+			tantas soluta facilisi. Ex altera aliquam accommodare eam, solum deserunt eos et. His ex eius
+			legendos. Ad nec summo assentior, eam movet tollit fuisset an.
+
+			Usu liber discere consequat ea, putent graecis principes an eam. Ea rebum singulis accommodare quo,
+			mazim tibique detracto ne est./p>
+		<h3>"My Projects</h3>
+		<ul>
+			<li>"Project 1"</li>
+			<li>"Project 2"</li>
+			<li>"Project3"</li>
+		</ul>
+		<h3>Contract Me</h3>
+		<p><strong>(704) 857-3317</strong></p>
+		<p>Email:
+			<a> href = "mail to :web2010@yahoo.com </a>
+		</p>
+	</div>
+</body>
+
+
+</html>
+
+
+
+</html>
+git add -A
