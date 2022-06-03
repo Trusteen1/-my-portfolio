@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html lang="en" <head>
+<head>
+<html lang="en" >
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>
-	<repl.it">
-</title>
-<style type="type/css"></style>
-<link rel="#styles.css" href="#styles.css" />
+<title><document"></title>
+<style type="text/css"></style>
+<link rel="#styles.css" href=".cooper.css"/>
 </head>
 
 <body>
